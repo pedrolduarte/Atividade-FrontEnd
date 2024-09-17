@@ -1,0 +1,14 @@
+:root {
+    --background-start-rgb: 220, 255, 220; /* Verde muito claro */
+    --background-end-rgb: 190, 255, 190; /* Verde claro */
+    --callout-rgb: 160, 255, 160; /* Verde suave */
+    --callout-border-rgb: 130, 255, 130; /* Verde mais forte */
+    --card-rgb: 200, 255, 200; /* Verde claro para o fundo do cartão */
+    --card-border-rgb: 170, 255, 170; /* Verde mais forte para a borda do cartão */
+    --primary-glow: rgba(100, 255, 100, 0.4); /* Verde claro com brilho */
+    --secondary-glow: rgba(50, 255, 50, 0.3); /* Verde escuro com brilho */
+    --font-mono: 'Courier New', Courier, monospace;
+    --border-radius: 8px;
+    --max-width: 1200px;
+  }
+  
